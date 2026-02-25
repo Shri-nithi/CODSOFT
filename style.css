@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: #f2d4cc;
+}
+
+header {
+  background-color: #af4c90;
+  color: white;
+  padding: 20px;
+}
+
+section {
+  padding: 20px;
+}
+
+img {
+  border-radius: 100%;
+  border-image-width: 50%;
+}
+
+footer {
+  background-color: #222;
+  color: white;
+  padding: 10px;
+}
